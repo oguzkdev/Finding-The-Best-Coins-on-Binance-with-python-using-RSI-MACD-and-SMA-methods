@@ -1,6 +1,10 @@
 # Finding-The-Best-Coins-on-Binance-with-python-using-RSI-MACD-and-SMA-methods
 Finding The Best Coins on Binance with python using RSI, MACD and SMA methods
 
+You can read the description of the code in my medium article in detail. Link is below:
+
+https://medium.com/@oguzk.dev/finding-the-best-coins-on-binance-with-python-using-rsi-macd-and-sma-methods-fa4c4338e99b
+
 Many indicators are used both in the stock market and in cryptocurrencies.
 Investors choose suitable indicators according to their own experiences or the behavior of traders in the market and trade on the stock markets.
 However, these transactions as a trader take a lot of time to determine which coin we will choose when we check it on the computer or phone.
